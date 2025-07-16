@@ -2,14 +2,87 @@ body{
     font-family: "Roboto", sans-serif;
     --second-family: "Raleway", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
+/* header */
+.logo-first{
+    color: #2e2f42;
+}
+.link-studio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.link-studio:hover,
+.link-studio:focus{
+    color: #404bbf
+}
+.link-portfolio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.link-portfolio:hover,
+.link-portfolio:focus{
+    color: #404bbf;
+}
+.link-contacts{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.link-contact:hover,
+.link-contact:focus{
+    color: #404bbf;
+}
+.address{
+    font-style: normal
+}
+.link-email{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.link-email:hover,
+.link-email:focus{
+    color: #404bbf;
+}
+.link-number{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.link-number:hover,
+.link-number:focus{
+    color: #404bbf;
+}
+
+
 /* Effective Solutions for Your Business */
-.min-title{
+
+.section-first{
+background: #2e2f42;
+}
+.main-title{
         font-weight: 700;
         font-size: 56px;
         line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
 }
 .main-title-button{
+    font-family: "Roboto", sans-serif;
     cursor: pointer;
     background: #2e2f42;
     font-weight: 500;
@@ -17,43 +90,67 @@ body{
     line-height: 150%;
     color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #4d5ae5;
+    background: #4d5ae5;
+    letter-spacing: 0.04em
+}
+.main-title-button:hover, 
+.main-title-button:focus{
+    background-color: #404BBF;
 }
 
 /* Benefits */
 
 .benefits-second-title{
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 120%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .benefits-title{
     font-weight: 700;
-        font-size: 36px;
-        line-height: 111%;
+    font-size: 36px;
+    line-height: 111%;
 }
 .benefits-paragraph{
-font-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* Our Team */
 
+.section-team{
+    background-color: #F4F4FD
+}
+.team-list{
+    background-color: #FFFFFF;
+}
 .team-title{
-font-weight: 700;
+    font-weight: 700;
     font-size: 36px;
     line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 .team-third-title{
     font-weight: 500;
-        font-size: 20px;
-        line-height: 120%;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 .team-paragraph{
     font-weight: 400;
-        font-size: 16px;
-        line-height: 150%;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
 }
 
 /* Our Portfolio */
@@ -62,14 +159,47 @@ font-weight: 700;
 font-weight: 700;
     font-size: 36px;
     line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+color: #2e2f42;
 }
 .portfolio-third-title{
 font-weight: 500;
     font-size: 20px;
     line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .portfolio-paragraph{
 font-weight: 400;
     font-size: 16px;
     line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* footer */
+.footer{
+    background: #2e2f42;
+}
+
+.footer-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-second{
+    color: #f4f4fd
 }
