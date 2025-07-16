@@ -23,26 +23,15 @@ body{
 .address{
     font-style: normal
 }
-.link-email{
+.link-address{
         font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.link-email:hover,
-.link-email:focus{
-    color: #404bbf;
-}
-.link-number{
-    font-weight: 400;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
-.link-number:hover,
-.link-number:focus{
+.link-address:hover,
+.link-address:focus{
     color: #404bbf;
 }
 
@@ -68,6 +57,7 @@ background: #2e2f42;
     font-size: 16px;
     line-height: 150%;
     color: #fff;
+
     background: #4d5ae5;
     letter-spacing: 0.04em
 }
