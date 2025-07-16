@@ -1,0 +1,75 @@
+body{
+    font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
+    color: #434455;
+}
+/* Effective Solutions for Your Business */
+.min-title{
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 107%;
+}
+.main-title-button{
+    cursor: pointer;
+    background: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background: #4d5ae5;
+}
+
+/* Benefits */
+
+.benefits-second-title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+}
+.benefits-title{
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+}
+.benefits-paragraph{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+/* Our Team */
+
+.team-title{
+font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+}
+.team-third-title{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+}
+.team-paragraph{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+}
+
+/* Our Portfolio */
+
+.portfolio-title{
+font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+}
+.portfolio-third-title{
+font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+}
+.portfolio-paragraph{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+}
