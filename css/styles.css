@@ -8,39 +8,18 @@ body{
 .logo-first{
     color: #2e2f42;
 }
-.link-studio{
+.link-header{
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.link-studio:hover,
-.link-studio:focus{
+.link-header:hover,
+.link-header:focus{
     color: #404bbf
 }
-.link-portfolio{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.link-portfolio:hover,
-.link-portfolio:focus{
-    color: #404bbf;
-}
-.link-contacts{
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-.link-contact:hover,
-.link-contact:focus{
-    color: #404bbf;
-}
+
 .address{
     font-style: normal
 }
@@ -89,7 +68,6 @@ background: #2e2f42;
     font-size: 16px;
     line-height: 150%;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     letter-spacing: 0.04em
 }
@@ -134,6 +112,7 @@ background: #2e2f42;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .team-third-title{
