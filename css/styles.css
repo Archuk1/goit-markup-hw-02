@@ -52,7 +52,7 @@ background: #2e2f42;
 .main-title{
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -86,7 +86,7 @@ background: #2e2f42;
 .benefits-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
 }
 .benefits-paragraph{
     font-weight: 400;
@@ -107,7 +107,7 @@ background: #2e2f42;
 .team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -135,7 +135,7 @@ background: #2e2f42;
 .portfolio-title{
 font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
