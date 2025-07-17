@@ -4,6 +4,14 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
 /* header */
 .logo-first{
     color: #2e2f42;
@@ -11,7 +19,7 @@ body{
 .link-header{
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -26,7 +34,7 @@ body{
 .link-address{
         font-weight: 400;
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -44,7 +52,7 @@ background: #2e2f42;
 .main-title{
         font-weight: 700;
         font-size: 56px;
-        line-height: 107%;
+        line-height: 1.07143;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -55,7 +63,7 @@ background: #2e2f42;
     background: #2e2f42;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     color: #fff;
 
     background: #4d5ae5;
@@ -71,19 +79,19 @@ background: #2e2f42;
 .benefits-second-title{
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .benefits-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11111;
 }
 .benefits-paragraph{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -99,7 +107,7 @@ background: #2e2f42;
 .team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -108,7 +116,7 @@ background: #2e2f42;
 .team-third-title{
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -116,7 +124,7 @@ background: #2e2f42;
 .team-paragraph{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
@@ -127,7 +135,7 @@ background: #2e2f42;
 .portfolio-title{
 font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -136,14 +144,14 @@ color: #2e2f42;
 .portfolio-third-title{
 font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .portfolio-paragraph{
 font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -156,7 +164,7 @@ font-weight: 400;
 .footer-paragraph{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
